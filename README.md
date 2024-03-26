@@ -8,8 +8,8 @@
 
 ----
 <a href="https://github.com/cryham">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=cryham&theme=algolia&show_icons=true" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=cryham&theme=algolia&show_icons=true" />
 </a>
 <a href="https://github.com/cryham">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cryham&theme=algolia&layout=compact&langs_count=4&hide=pascal,pawn,assembly,hlsl,metal,html,objective-c,c,php,cuda,shell&card_width=320" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cryham&theme=algolia&layout=compact&langs_count=4&hide=pascal,pawn,assembly,hlsl,metal,html,objective-c,c,php,cuda,shell&card_width=220" />
 </a>
