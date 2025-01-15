@@ -1,10 +1,10 @@
-📖Full description of all [**my projects**](https://cryham.tuxfamily.org/projects/) 🎨.  
+📖Full description of all [**my projects**](https://cryham.org/projects/) 🎨.  
 
 🚗[**Stunt Rally** website](https://stuntrally.tuxfamily.org/)🚀 - 3D racing game with Track Editor.
 
-ℹ️More [about me](https://cryham.tuxfamily.org/about-me/) also on [my website](https://cryham.tuxfamily.org/).  
+ℹ️More [about me](https://cryham.org/about-me/) also on [my website](https://cryham.org/).  
 
-💜[**Donations**](https://cryham.tuxfamily.org/donate/), financial support, on [Ko-fi](https://ko-fi.com/cryham).
+💜[**Donations**](https://cryham.org/donate/), financial support, on [Ko-fi](https://ko-fi.com/cryham).
 
 ----
 <a href="https://github.com/cryham">
