@@ -1,10 +1,10 @@
 📖Full description of all [**my projects**](https://cryham.org/projects/) 🎨.  
 
-🚗[**Stunt Rally** website](https://stuntrally.tuxfamily.org/)🚀 - 3D racing game with Track Editor.
+🚗[**Stunt Rally** website](https://cryham.org/stuntrally/)🚀 - 3D racing game with stunts, Sci-Fi and own Track Editor.
 
 ℹ️More [about me](https://cryham.org/about-me/) also on [my website](https://cryham.org/).  
 
-💜[**Donations**](https://cryham.org/donate/), financial support, on [Ko-fi](https://ko-fi.com/cryham).
+💜[**Donations**](https://cryham.org/donate/), financial support on [Ko-fi](https://ko-fi.com/cryham) or [paypal](https://paypal.me/cryham).
 
 ----
 <a href="https://github.com/cryham">
